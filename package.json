@@ -15,7 +15,7 @@
       "\\.(css|scss)$": "<rootDir>/__mocks__/styleMock.js"
     }
   },
-  "author": "***REMOVED*** ***REMOVED***",
+  "author": "Erin Eland",
   "license": "ISC",
   "babel": {
     "presets": [
